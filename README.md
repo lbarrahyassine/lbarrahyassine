@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=520&height=70&duration=2500&lines=Hey+There!+👋;+I'm+Yassine+LBARRAH!" />
 </h1>
 
-<h3 align="center">I'm Yassine, a computer science student 💻 from Morocco 🇲🇦</h3>
+<h3 align="center">I'm Yassine, a computer science student 💻</h3>
 
 <div align="center">
   <p>
