@@ -10,9 +10,7 @@
     and always eager to learn the latest <strong>technologies</strong> 🚀
   </p>
 
-  <p>
-    I love having <strong>fun</strong> in everything I do 😄, and I also enjoy making <strong>music</strong> 🎶
-  </p>
+  
 
 
   <br /><br />
