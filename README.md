@@ -6,7 +6,7 @@
 
 <div align="center">
   <p>
-    Passionate about <strong>problem solving</strong> 🔍💡, <strong>competitive programming</strong> 🏆,<br />
+    Passionate about <strong>problem solving</strong> 🔍💡, <strong>Data Engineering</strong> 🏆,<br />
     and always eager to learn the latest <strong>technologies</strong> 🚀
   </p>
 
